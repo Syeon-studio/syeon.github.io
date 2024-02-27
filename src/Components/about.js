@@ -7,7 +7,7 @@ export const About = (props) => {
             <img src={'images/photo.png'} alt="profile"/>
             <div className='contents'>
                 <div className='greeting'>Hi, I'm Sooyeon Ahn! 🍀</div>
-                <div className='description'>Hello! I am a second year Master candidate in the Department of Industrial Design at KAIST. I am working with <a href='https://galaxytourist.notion.site/galaxytourist/Hwajung-Hong-cc10b0291bbe4ca38dbf4882cd687423'>Prof. Hwajung Hong</a> at <a href='https://dxd-lab.github.io/'>DxD Lab</a>. <br/><br/> My research interest sits at the intersection of Human-AI Interaction and Accessibility, with a strong emphasis on a Human-Centered design approach.</div>
+                <div className='description'>I am a second year Master candidate in the Department of Industrial Design at KAIST. I am working with <a href='https://galaxytourist.notion.site/galaxytourist/Hwajung-Hong-cc10b0291bbe4ca38dbf4882cd687423'>Prof. Hwajung Hong</a> at <a href='https://dxd-lab.github.io/'>DxD Lab</a>. <br/><br/> My research interest sits at the intersection of Human-AI Interaction and Accessibility, with a strong emphasis on a Human-Centered design approach.</div>
                 <div className='icons'>
                     <a href='little1209@kaist.ac.kr'><img src="/icons/mail.svg" alt="mail"/></a>
                     <a href='https://scholar.google.com/citations?hl=en&user=pbAVZ9UAAAAJ'><img src="/icons/scholar.svg" alt="scholar"/></a>

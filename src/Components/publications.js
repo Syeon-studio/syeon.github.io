@@ -18,6 +18,10 @@ export const Publications = (props) => {
                                         {index < publication.authors.length - 1 ? ', ' : ''}
                                     </span>
                                     )}
+                                    <br/>
+                                    <span className='description'>
+                                        *All authors are contributed equally at this paper.
+                                    </span>
                                 </div>
                             </div>
                             <div className='subinfo'>

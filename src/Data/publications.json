@@ -1,11 +1,11 @@
 [
     {
         "title": "MindTerior: A Mental Healthcare Game with Metaphoric Gamespace and Effective Activities for Mitigating Mild Emotional Difficulties",
-        "authors": ["Ain Lee", "Juhyun Lee", "Sooyeon Ahn", "Youngik Lee", "*All authors contributes equally to this paper"],
-        "highlight_author": [2],
+        "authors": ["Ain Lee", "Juhyun Lee", "Sooyeon Ahn", "Youngik Lee"], 
+        "highlight_author": [2,4],
         "year": 2023,
         "booktitle": "CHI 2023",
-        "state": "(To appear)",
+        "state": "",
         "awards": [],
         "url": "https://doi.org/10.1145/3544549.3583831",
         "pdf": "PDF/MindTerior.pdf",

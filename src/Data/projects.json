@@ -1,5 +1,14 @@
 [
     {
+        "title": "MindBattery",
+        "people": ["Kwangyoung Lee", "Sooyeon Ahn", "Jong-ok Hong", "Jaehyun Lim", "Namgoo Park","Uichin Lee","Hwajung Hong"],
+        "highlight_people": [1],
+        "year": "2024",
+        "description": "The fast-paced and demanding nature of call center work prevents ability from recognizing worker's emotional states. In this study, we developed MindBattery, a smartphone application designed to support the emotional well-being by using a battery analogy to help call center workers gauge their emotional energy depletion and provide a set of microbreaks for emotional recovery.",
+        "image": "project_6.png"
+    }
+    ,
+    {
         "title": "Meta-Gaia",
         "people": ["Sooyeon Ahn", "Minsun Kim", "Geunyong Park", "Stella Yolanda"],
         "highlight_people": [0],
@@ -28,7 +37,7 @@
     ,
     {
         "title": "For the STARved",
-        "people": ["Sooyeon Ahn", "YoungJae Kim", "Doeun Kim", "Seojin Park", "Seungyun Oh"],
+        "people": ["Sooyeon Ahn", "YoungJae Kim", "Doeun Kim", "Seojin Park", "Seungyun Oh", "Minha Kang", "Wootae Kim"],
         "highlight_people": [0],
         "year": "2021",
         "description": "For the STARved is an online astrophoto exhibition created by the Amateur Astronomy Association(AAA) of Seoul National University. The exhibition is in the online 3D virtual universe. Everyone starved at stars during the pandemic can explore beautiful, fantastical galleries and watch high-quality astrophotography.",
