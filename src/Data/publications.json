@@ -1,22 +1,14 @@
 [
     {
-        "title": "Designing for self-tracking of emotion and experience with tangible modality",
-        "authors": ["Kwangyoung Lee", "Hwajung Hong"],
-        "highlight_author": [0],
-        "year": 2017,
-        "booktitle": "DIS 2017",
+        "title": "MindTerior: A Mental Healthcare Game with Metaphoric Gamespace and Effective Activities for Mitigating Mild Emotional Difficulties",
+        "authors": ["Ain Lee", "Juhyun Lee", "Sooyeon Ahn", "Youngik Lee", "*All authors contributes equally to this paper"],
+        "highlight_author": [2],
+        "year": 2023,
+        "booktitle": "CHI 2023",
         "state": "(To appear)",
-        "awards": ["Best Paper", "Honerable Mention"],
-        "url": "https://dl.acm.org/doi/abs/10.1145/3064663.3064697",
-        "pdf": "PDF/mindtracker2017.pdf",
-        "video": "https://www.youtube.com/watch?v=RflfWsLXDL8"
-    },
-    {
-        "title": "Designing for self-tracking of emotion and experience with tangible modality",
-        "authors": ["Kwangyoung Lee", "Hwajung Hong"],
-        "highlight_author": [],
-        "year": 2017,
-        "booktitle": "DIS 2017",
-        "awards": []
+        "awards": [],
+        "url": "https://doi.org/10.1145/3544549.3583831",
+        "pdf": "PDF/MindTerior.pdf",
+        "video": "https://youtu.be/q-tPF-fJK_Q"
     }
 ]

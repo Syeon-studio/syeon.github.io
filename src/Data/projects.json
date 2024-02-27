@@ -1,19 +1,47 @@
 [
     {
-        "title": "Datopia",
-        "people": ["Hyunseung Lim", "Dasom Choi", "Kwangyoung Lee", "Taewan Kim", "Eunseo Oh", "Inhwa Song", "Seokyoung Park", "Yubin Choi", "Hwajung Hong"],
+        "title": "Meta-Gaia",
+        "people": ["Sooyeon Ahn", "Minsun Kim", "Geunyong Park", "Stella Yolanda"],
         "highlight_people": [0],
-        "year": "2022",
-        "description": "Datopia is a data-based dating service. By analyzing data, it captures everything from the preferences you didn't know you had to your minor daily habits. Through this, it goes beyond simple encounters to find you a destined partner with whom you can maintain a continuous relationship. But can love really be determined solely by data?",
-        "image": "project_1.png"
+        "year": "2023",
+        "description": "“Gaia, the first god who created the world, was followed by humans as Meta-Gaia. When the shadow of New God casts, the Earth is distorted.” Meta-Gaia visually explores the profound impact of human activities on Earth's ecosystems. It gracefully immerses viewers in a meditative and thought-provoking experience.",
+        "image": "project_5.png"
     }
     ,
     {
-        "title": "Datopia",
-        "people": ["Hyunseung Lim", "Dasom Choi", "Kwangyoung Lee", "Taewan Kim", "Eunseo Oh", "Inhwa Song", "Seokyoung Park", "Yubin Choi", "Hwajung Hong"],
+        "title": "MindTerior",
+        "people": ["Ain Lee", "Juhyun Lee", "Sooyeon Ahn", "Youngik Lee"],
+        "highlight_people": [2],
+        "year": "2023",
+        "description": "MindTerior is a mental health game designed for people with mild emotional difficulties. It analyzes each player's emotional state and proposes gamified evidence-based mental health care activities. Through conducting activities, the game space visually reflecting the player's state is improved.",
+        "image": "project_4.png"
+    }
+    ,
+    {
+        "title": "OWN",
+        "people": ["Sooyeon Ahn", "HeeYoung Beak", "Gill Sown", "Hwajung hong"],
         "highlight_people": [0],
-        "year": "2022",
-        "description": "Datopia is a data-based dating service. By analyzing data, it captures everything from the preferences you didn't know you had to your minor daily habits.",
+        "year": "2021-2022",
+        "description": "OWN is a personal virtual space where the user(OWNer) can explore and interact with own inner world. As part of the co-creation process, each OWNer expresses a personal narrative about self and environment, allowing psychologists to gain an in-depth insight into the OWNer's inner state. The psychologists suggest various therapeutic elements, which the designer visualizes as space in the virtual world.",
+        "image": "project_3.png"
+    }
+    ,
+    {
+        "title": "For the STARved",
+        "people": ["Sooyeon Ahn", "YoungJae Kim", "Doeun Kim", "Seojin Park", "Seungyun Oh"],
+        "highlight_people": [0],
+        "year": "2021",
+        "description": "For the STARved is an online astrophoto exhibition created by the Amateur Astronomy Association(AAA) of Seoul National University. The exhibition is in the online 3D virtual universe. Everyone starved at stars during the pandemic can explore beautiful, fantastical galleries and watch high-quality astrophotography.",
+        "image": "project_2.png"
+    }
+    ,
+    {
+        "title": "Mind-room",
+        "people": ["Sooyeon Ahn", "YoungJae Kim", "Minha Kang"],
+        "highlight_people": [0],
+        "year": "2020",
+        "description": "Mind-room is aimed at solving emotional difficulties during a pandemic when virtual communication is the new normal. It analyzes users' emotional states by allowing users to respond to several scenarios on a hypothetical trip and provides rooms for relaxation filled with therapeutic visual elements.",
         "image": "project_1.png"
     }
+
 ]
